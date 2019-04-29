@@ -32,7 +32,7 @@ penalty being assessed.
 
 ## Initial Setup
 
-Both you and your partner will need to get the starter code for your group
+You will need to get the starter code 
 using Git.
 
 1. In VS Code, open the command palette and select the "Git Clone" option.
@@ -43,8 +43,6 @@ using Git.
 
 1. Choose the "Open Repository" option in the window that pops up in the
    lower-right corner of the screen.
-
-
 
 
 ## Program Behavior
