@@ -41,8 +41,7 @@ using Git.
 
 	https://github.com/comp110-sp19/psa7.git
 
-1. Choose the "Open Repository" option in the window that pops up in the
-   lower-right corner of the screen.
+1. Choose the "Open Repository" option 
 
 
 ## Program Behavior
